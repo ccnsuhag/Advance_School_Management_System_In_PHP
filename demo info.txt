@@ -1,0 +1,9 @@
+Project Name: Advance School Management System In PHP
+
+Programming Language: PHP
+PHP Framework : Laravel
+Style : Bootstrap
+Other Technologies : JQuery, Angular etc
+User Name: admin
+Password: admin
+
